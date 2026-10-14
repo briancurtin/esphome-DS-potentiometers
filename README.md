@@ -1,2 +1,3 @@
-# esphome-DS1841
-ESPHome component to control a DS1841 digital log potentiometer
+# esphome-DS-potentiometers
+ESPHome component to control DS1841 and DS3502 digital potentiometers. The ICs are made by Maxim
+and sold in PCB form by Adafruit.
